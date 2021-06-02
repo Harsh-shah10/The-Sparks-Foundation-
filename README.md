@@ -5,6 +5,7 @@ Internship Category - Data Science and Business Analytics
 Internship Duration - 1 Month ( June-2021 )
 Internship Type - Work from Home
 
+
 Task-1 : Prediction using Supervised ML (Level - Beginner)
 Predict the percentage of an student based on the no. of study hours.
 ● This is a simple linear regression task as it involves just 2 variables.
